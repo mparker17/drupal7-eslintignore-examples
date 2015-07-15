@@ -1,0 +1,13 @@
+#
+# @file
+# Template for D7 projects where a site-specific folder is in the repository.
+#
+# Examples: OpenConcept Hosting.
+#
+# Save this file as /path/to/drupalroot/.eslintignore
+#
+files/**/*
+libraries/**/*
+modules/contrib/**/*
+modules/features/**/*
+themes/contrib/**/*

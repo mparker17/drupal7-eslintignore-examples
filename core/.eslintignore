@@ -1,0 +1,13 @@
+#
+# @file
+# Template for D7 projects where all of Drupal core is in the repository.
+#
+# Examples: Pantheon, Acquia Cloud.
+#
+# Save this file as /path/to/drupalroot/.eslintignore
+#
+sites/**/files/**/*
+sites/**/libraries/**/*
+sites/**/modules/contrib/**/*
+sites/**/modules/features/**/*
+sites/**/themes/contrib/**/*

@@ -1,0 +1,10 @@
+#
+# @file
+# Template for D7 projects where an installation profile is in the repository.
+#
+# Save this file as /path/to/drupalroot/profiles/yourprofile/.eslintignore
+#
+libraries/**/*
+modules/contrib/**/*
+modules/features/**/*
+themes/contrib/**/*
